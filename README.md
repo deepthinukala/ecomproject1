@@ -49,6 +49,7 @@ H2 is a relational database management system written in Java. It can be embedde
 
 ##Front-End
 It reprsents the UI and helps user to interact with bussiness processes.
+   
    **BOOTSTRAP**
 Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
@@ -62,7 +63,8 @@ AngularJS is a very powerful JavaScript Framework. It is used in Single Page App
 
 ##Middle-Ware
 This layer forms the basis for manipulating application data. It works closely with front end and bacck end.
-   **Spring Framework**
+ 
+  **Spring Framework**
 It is an opensource java platform to develop java applications.Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate, Tapestry, EJB, JSF etc.
 The Spring framework comprises several modules such as IOC, AOP, DAO, Context, ORM, WEB MVC etc.To work with Spring Framework add JAR files i.e.required spring dependencies from Maven Repository.
  [Click here to obtain dependencies](https://mvnrepository.com/artifact/org.springframework)
