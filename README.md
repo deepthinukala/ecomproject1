@@ -54,21 +54,21 @@ It reprsents the UI and helps user to interact with bussiness processes.
 Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
 
--	      **JSP-Standard Tag Library**
+-- **JSP-Standard Tag Library**
 The JavaServer Pages Standard Tag Library (JSTL) is a collection of useful JSP tags which encapsulates core functionality common to many JSP applications.
 JSTL has support for common, structural tasks such as iteration and conditionals, tags for manipulating XML documents, internationalization tags, and SQL tags. It also provides a framework for integrating existing custom tags with JSTL tags.
 
--	      **AngularJS**
+-**AngularJS**
 AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects. It extends HTML DOM with additional attributes and makes it more responsive to user actions.
 
-     ##Middle-Ware
+ ##Middle-Ware
 This layer forms the basis for manipulating application data. It works closely with front end and bacck end.
--	      **Spring Framework**
+-	    **Spring Framework**
 It is an opensource java platform to develop java applications.Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate, Tapestry, EJB, JSF etc.
 The Spring framework comprises several modules such as IOC, AOP, DAO, Context, ORM, WEB MVC etc.To work with Spring Framework add JAR files i.e.required spring dependencies from Maven Repository.
  [Click here to obtain dependencies](https://mvnrepository.com/artifact/org.springframework)
 
--	      **Hibernate ORM**
+--      **Hibernate ORM**
 Hibernate is a high-performance Object/Relational persistence and query service which is licensed under the open source GNU Lesser General Public License (LGPL) and is free to download.
 Hibernate not only takes care of the mapping from Java classes to database tables (and from Java data types to SQL data types), but also provides data query and retrieval facilities.To implement Hibernate add related Hibernate dependencies in the JAR from Maven Repository.
 [Click here to obtain dependencies](https://mvnrepository.com/artifact/org.hibernate)
