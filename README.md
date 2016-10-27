@@ -10,7 +10,7 @@ This web application consists of functionalities like
 - Admin login access
 - Product page,category page,supplier page where operations like add,edit delete can be performed.
 
-##Pre-requisites:
+##Pre-Requisites:
 
 - [ ] **Download and Install java set up file**   [Click here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [ ] **Environment Setup-Download Eclipse Mars2**  [Click here](http://www.eclipse.org/downloads/eclipse-packages/index.php)
@@ -22,17 +22,17 @@ This web application consists of functionalities like
 
 ##SOFTWARES USED:
 
--	      **Eclipse MARS2**
+ **Eclipse MARS2**
 Eclipse is an integrated development environment (IDE) used in computer programming, and is the most widely used Java IDE.Released under the terms of the Eclipse Public License, Eclipse SDK is free and open-source software
 It contains a base workspace and an extensible plug-in system for customizing the environment. 
 Eclipse is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages through the use of plugins
 
--	      **Apache-Tomcat 8.0**
+**Apache-Tomcat 8.0**
 Apache Tomcat, often referred to as Tomcat, is an open-source Java Servlet Container developed by the Apache Software Foundation (ASF). 
 Tomcat implements several Java EE specifications including Java Servlet, JavaServer Pages (JSP), Java EL, and WebSocket, and provides a "pure Java" HTTP web server environment in which Java code can run.
 Eclipse supports development for Tomcat servers and is often capable of installing the required server (for development) directly from the IDE.
 
--	      **Apache-Maven**
+**Apache-Maven**
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 Maven’s primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time.
 Making the build process easy
@@ -41,7 +41,7 @@ Providing quality project information
 Providing guidelines for best practices development
 Allowing transparent migration to new features
 
--	      **H2 Database v1.3.176**
+**H2 Database v1.3.176**
 H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode.
 [Click here to download H2 Database](http://www.h2database.com/h2-2014-04-05.zip)
 
@@ -50,25 +50,25 @@ H2 is a relational database management system written in Java. It can be embedde
 
 ##Front-End
 It reprsents the UI and helps user to interact with bussiness processes.
--	      **BOOTSTRAP**
+   **BOOTSTRAP**
 Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
 
--- **JSP-Standard Tag Library**
+   **JSP-Standard Tag Library**
 The JavaServer Pages Standard Tag Library (JSTL) is a collection of useful JSP tags which encapsulates core functionality common to many JSP applications.
 JSTL has support for common, structural tasks such as iteration and conditionals, tags for manipulating XML documents, internationalization tags, and SQL tags. It also provides a framework for integrating existing custom tags with JSTL tags.
 
--**AngularJS**
+   **AngularJS**
 AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects. It extends HTML DOM with additional attributes and makes it more responsive to user actions.
 
  ##Middle-Ware
 This layer forms the basis for manipulating application data. It works closely with front end and bacck end.
--	    **Spring Framework**
+   **Spring Framework**
 It is an opensource java platform to develop java applications.Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate, Tapestry, EJB, JSF etc.
 The Spring framework comprises several modules such as IOC, AOP, DAO, Context, ORM, WEB MVC etc.To work with Spring Framework add JAR files i.e.required spring dependencies from Maven Repository.
  [Click here to obtain dependencies](https://mvnrepository.com/artifact/org.springframework)
 
---      **Hibernate ORM**
+   **Hibernate ORM**
 Hibernate is a high-performance Object/Relational persistence and query service which is licensed under the open source GNU Lesser General Public License (LGPL) and is free to download.
 Hibernate not only takes care of the mapping from Java classes to database tables (and from Java data types to SQL data types), but also provides data query and retrieval facilities.To implement Hibernate add related Hibernate dependencies in the JAR from Maven Repository.
 [Click here to obtain dependencies](https://mvnrepository.com/artifact/org.hibernate)
