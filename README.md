@@ -43,7 +43,6 @@ Allowing transparent migration to new features
 
 **H2 Database v1.3.176**
 H2 is a relational database management system written in Java. It can be embedded in Java applications or run in the client-server mode.
-[Click here to download H2 Database](http://www.h2database.com/h2-2014-04-05.zip)
 
 
 ##FRAMEWORKS USED IN DIFFERENT LAYERS
