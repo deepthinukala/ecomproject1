@@ -61,7 +61,7 @@ JSTL has support for common, structural tasks such as iteration and conditionals
    **AngularJS**
 AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects. It extends HTML DOM with additional attributes and makes it more responsive to user actions.
 
- ##Middle-Ware
+##Middle-Ware
 This layer forms the basis for manipulating application data. It works closely with front end and bacck end.
    **Spring Framework**
 It is an opensource java platform to develop java applications.Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate, Tapestry, EJB, JSF etc.
